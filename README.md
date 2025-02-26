@@ -6,7 +6,7 @@
 #
 # Connect your learning from throughout this course to the larger field of computer science:
 # What do computer scientists do and why does it matter?
-## The role of computer scientists is to apply a scinetific approach to developing technology to allow for innovation as well as advancing the disciplines that benefit from computer technologies. This pursuit is vital due to the magnitude of progress allowed to all industries by the intregation of automation, Artificial Inelligence, networking devices, and various other computertechnologies.
+## The role of computer scientists is to apply a scinetific approach to developing technology to allow for innovation as well as advancing the disciplines that benefit from computer technologies. This pursuit is vital due to the magnitude of progress allowed to all industries by the intregation of automation, Artificial Inelligence, networking devices, and various other computer technologies.
 #
 # How do I approach a problem as a computer scientist?
 ## When investigating a new problem, first I seek to appreciate the key components of the problem, then I consider how the smaller characteristics of the problem can be solved, I'll reflect on past experience with similar problems, and perform the necessary research before beginning to design and implement a solution.
